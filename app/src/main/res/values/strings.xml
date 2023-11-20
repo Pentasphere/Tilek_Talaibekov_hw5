@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tilek_Talaibekov_hw5</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="register">register</string>
+    <string name="next">next</string>
+</resources>
